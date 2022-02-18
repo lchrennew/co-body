@@ -1,8 +1,8 @@
 {
   "name": "es-co-body",
-  "version": "6.1.0",
-  "repository": "cojs/co-body",
-  "description": "request body parsing for co",
+  "version": "1.0.0",
+  "repository": "lchrenew/co-body",
+  "description": "a fork version of co-body (es module)",
   "type": "module",
   "keywords": [
     "request",
