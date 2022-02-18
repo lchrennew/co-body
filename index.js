@@ -1,6 +1,14 @@
 'use strict';
 
-exports = module.exports = require('./lib/any');
-exports.json = require('./lib/json');
-exports.form = require('./lib/form');
-exports.text = require('./lib/text');
+import json from "./lib/json.js";
+import text from "./lib/text.js";
+import form from "./lib/form.js";
+
+import any from "./lib/any.js";
+
+export {
+    json,
+    text,
+    form,
+}
+export default any
