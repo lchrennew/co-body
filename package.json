@@ -1,6 +1,6 @@
 {
   "name": "es-co-body",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "repository": "lchrenew/co-body",
   "description": "a fork version of co-body (es module)",
   "type": "module",
@@ -33,6 +33,12 @@
   },
   "files": [
     "index.js",
-    "lib/any.js"
+    "lib/any.js",
+    "lib/form.js",
+    "lib/json.js",
+    "lib/text.js",
+    "lib/form-parser.js",
+    "lib/json-parser.js",
+    "lib/text-parser.js"
   ]
 }
