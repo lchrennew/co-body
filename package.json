@@ -1,9 +1,10 @@
 {
   "name": "es-co-body",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "repository": "lchrenew/co-body",
   "description": "a fork version of co-body (es module)",
   "type": "module",
+  "main": "index.js",
   "keywords": [
     "request",
     "parse",
