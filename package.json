@@ -14,10 +14,10 @@
     "urlencoded"
   ],
   "dependencies": {
+    "deepmerge": "^4.2.2",
     "inflation": "^2.0.0",
     "qs": "^6.10.3",
-    "raw-body": "^2.4.3",
-    "type-is": "^1.6.18"
+    "raw-body": "^2.4.3"
   },
   "devDependencies": {
     "jest": "^27.5.1",
@@ -32,6 +32,6 @@
   },
   "files": [
     "index.js",
-    "lib/"
+    "lib/any.js"
   ]
 }
