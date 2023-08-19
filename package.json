@@ -1,6 +1,6 @@
 {
   "name": "es-co-body",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "repository": "lchrenew/co-body",
   "description": "a fork version of co-body (es module)",
   "type": "module",
